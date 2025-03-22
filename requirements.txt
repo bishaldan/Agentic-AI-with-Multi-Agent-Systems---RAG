@@ -1,0 +1,6 @@
+autogen
+pyautogen
+dask[dataframe]
+python-dotenv
+chromadb
+autogen-agentchat[retrievechat]~=0.2
